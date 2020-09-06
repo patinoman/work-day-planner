@@ -47,7 +47,9 @@ My friend Jesse and Jose, who have assisting me through my progress and many man
 
 ![Workday Planner](images\Capture.PNG)
 
-### Links
+## Links
+
+---
 
 https://github.com/patinoman/work-day-planner
 https://patinoman.github.io/work-day-planner/
