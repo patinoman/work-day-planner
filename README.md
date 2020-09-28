@@ -45,7 +45,7 @@ My friend Jesse and Jose, who have assisting me through my progress and many man
 
 ---
 
-![Workday Planner](images\Capture.PNG?raw=true "Workday Planner")
+![Workday Planner](/images/Capture.PNG?raw=true "Workday Planner")
 
 ## Links
 
